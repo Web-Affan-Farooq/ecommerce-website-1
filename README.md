@@ -3,7 +3,7 @@
         <p>this is an interactive template designed for freshers ,those who are the new in this field of web development . 
         In this templte I am focused on simple and interactive web design in baby steps . With the aim <em>It is easy to 
         use with simple stylings </em>. </p>
-        <p align="center">just clone this repository and you are on the go!.</p>
+        <p align="center">just clone this repository and you are on the go !!</p>
         <hr>
     <section>
         <h2>Key Features:</h2>
