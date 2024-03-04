@@ -35,4 +35,4 @@
         <li>Icons from <a href="https://fontawesome.com/">Font Awesome.com</a></li>
       </ul>
     </section>
-    <p><a href="https://ecommerce-template-1.netlify.app/" target="_blank">See results</a></p>
+    <button><a href="https://ecommerce-template-1.netlify.app/" target="_blank">See results</a></button>
