@@ -25,10 +25,6 @@
     </section>
     <hr>
     <section>
-        <h2>How to Use:</h2>
-        <p>[Provide instructions or a brief overview of how users can navigate your website or utilize its features.]</p>
-    </section>
-    <section>
         <h2>Contributing:</h2>
       <ul>
         <li>Images from <a href="https://unsplash.com/s/photos/programmer">Unsplash.com</a></li>
